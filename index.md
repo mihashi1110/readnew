@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Horky Home
 
 You can use the [editor on GitHub](https://github.com/mihashi1110/readnew/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
